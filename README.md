@@ -4,7 +4,7 @@
 > 
 > Soy un profesional en el área de la informática especializado en datos, finanzas e inteligencia artificial.
 > 
-> Entre mis habilidades destaco mi flexibilidad y adaptabilidad para el trabajo, fuerte colaborativa, predisposición a la investigación y apasionado de la la capacitación continua. 
+> Entre mis habilidades destaco mi flexibilidad y adaptabilidad para el trabajo, fuerte sentido de colaboración, predisposición a la investigación y apasionado de la la capacitación continua. 
 > Soy una persona que asimila rápidamente tecnologías informáticas con habilidades analíticas, organizativas y de comunicación. 
 
 ## Mi stack tecnológico
