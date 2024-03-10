@@ -46,14 +46,6 @@
       src="https://skillicons.dev/icons?i=gmail"
       alt="Mi correo electronico" height="30" width="40" />
   </a>
-  <script>
-      document.addEventListener("DOMContentLoaded", function() {
-      const img = document.querySelector("img");
-      img.addEventListener("click", function() {
-      window.location.href = "mailto:gary.martinez.alvis@gmail.com";
-        });
-    });
-  </script>
   <a href="whatsapp://send?phone=+59178069813">
   <img align="center"
       src="https://i.pinimg.com/originals/91/13/34/911334dc490932fed5b7cd8f76c023d5.png"
